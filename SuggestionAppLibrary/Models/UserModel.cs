@@ -5,6 +5,6 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace SuggestionAppLibrary.Models;
-internal class UserModel
+public class UserModel
 {
 }
